@@ -9,7 +9,6 @@ local config = wezterm.config_builder()
 -- For example, changing the color scheme:
 config.font_size = 14.7
 config.term = "wezterm"
--- config.color_scheme = "GitHub Dark"
 config.font = wezterm.font_with_fallback({
 	"JetBrains Mono Nerd Font",
 	"VictorMono Nerd Font",
