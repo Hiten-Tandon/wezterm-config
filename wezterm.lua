@@ -7,7 +7,7 @@ local config = wezterm.config_builder()
 -- This is where you actually apply your config choices
 
 -- For example, changing the color scheme:
-config.font_size = 14.7
+config.font_size = 15.7
 config.term = "wezterm"
 config.font = wezterm.font_with_fallback({
 	"JetBrains Mono Nerd Font",
